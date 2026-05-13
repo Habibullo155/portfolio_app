@@ -2,6 +2,8 @@
 
 A modern portfolio application built with Flutter featuring beautiful animations and responsive design.
 
+**🔗 [Live Demo / Живое демо](https://habibullo155.github.io/portfolio_app/)**
+
 ## ✨ Features
 
 - 🎨 **Modern Design** - Glassmorphism, gradients, and smooth animations
